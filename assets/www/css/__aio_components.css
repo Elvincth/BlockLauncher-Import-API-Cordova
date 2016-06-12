@@ -1,0 +1,8 @@
+
+/*
+* Appery.io side-menu component.
+*/
+ion-side-menu.menu {
+	overflow-y: auto;
+	overflow-x: hidden;
+}

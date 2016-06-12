@@ -1,0 +1,178 @@
+{
+    "com.adobe.plugins.GAPlugin": {
+        "source": {
+            "type": "local",
+            "path": "plugins/GAPlugin-2.4.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-battery-status": {
+        "source": {
+            "type": "local",
+            "path": "plugins/cordova-plugin-battery-status-r1.1.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-camera": {
+        "source": {
+            "type": "local",
+            "path": "plugins/cordova-plugin-camera-r1.2.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-console": {
+        "source": {
+            "type": "local",
+            "path": "plugins/cordova-plugin-console-r1.0.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-contacts": {
+        "source": {
+            "type": "local",
+            "path": "plugins/cordova-plugin-contacts-r1.1.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-device-motion": {
+        "source": {
+            "type": "local",
+            "path": "plugins/cordova-plugin-device-motion-r1.1.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-device-orientation": {
+        "source": {
+            "type": "local",
+            "path": "plugins/cordova-plugin-device-orientation-r1.0.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-device": {
+        "source": {
+            "type": "local",
+            "path": "plugins/cordova-plugin-device-rel-1.1.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-dialogs": {
+        "source": {
+            "type": "local",
+            "path": "plugins/cordova-plugin-dialogs-r1.1.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-file-opener2": {
+        "source": {
+            "type": "local",
+            "path": "plugins/cordova-plugin-file-opener2-master"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-file": {
+        "source": {
+            "type": "local",
+            "path": "plugins/cordova-plugin-file-r3.0.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-geolocation": {
+        "source": {
+            "type": "local",
+            "path": "plugins/cordova-plugin-geolocation-r1.0.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-globalization": {
+        "source": {
+            "type": "local",
+            "path": "plugins/cordova-plugin-globalization-r1.0.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-inappbrowser": {
+        "source": {
+            "type": "local",
+            "path": "plugins/cordova-plugin-inappbrowser-r1.0.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-network-information": {
+        "source": {
+            "type": "local",
+            "path": "plugins/cordova-plugin-network-information-r1.0.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-splashscreen": {
+        "source": {
+            "type": "local",
+            "path": "plugins/cordova-plugin-splashscreen-r2.1.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-vibration": {
+        "source": {
+            "type": "local",
+            "path": "plugins/cordova-plugin-vibration-r1.2.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "phonegap-plugin-barcodescanner": {
+        "source": {
+            "type": "local",
+            "path": "plugins/phonegap-plugin-barcodescanner-4.0.2"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "phonegap-plugin-push": {
+        "source": {
+            "type": "local",
+            "path": "plugins/phonegap-plugin-push-1.4.5"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-file-transfer": {
+        "source": {
+            "type": "local",
+            "path": "plugins/cordova-plugin-file-transfer-r1.2.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-media-capture": {
+        "source": {
+            "type": "local",
+            "path": "plugins/cordova-plugin-media-capture-r1.0.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-media": {
+        "source": {
+            "type": "local",
+            "path": "plugins/cordova-plugin-media-r1.0.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
