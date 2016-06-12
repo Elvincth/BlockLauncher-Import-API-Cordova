@@ -1,4 +1,7 @@
 # BlockLauncher Import API in Phonegap
+
+Test project for BlockLauncher's public API using Ionic, that is easy for develoepr that do not know Java.
+
 #Example code
 Import this plugin: https://github.com/pwlin/cordova-plugin-file-opener2
 
