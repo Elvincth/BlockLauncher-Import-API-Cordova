@@ -2,12 +2,12 @@
 
 Test project for BlockLauncher's public API using Ionic, that is easy for develoepr that do not know Java.
 
-#Example code
-Import this plugin: https://github.com/pwlin/cordova-plugin-file-opener2
-
+#How to add your own import code
+//Import this plugin: https://github.com/pwlin/cordova-plugin-file-opener2
+//Code:
 $scope.download = function () {
 
-$scope.download = 'Downloading...';
+
 
 var ft = new FileTransfer();
 ft.download(
@@ -16,10 +16,10 @@ ft.download(
   function(entry) {
 $scope.download = 'Download success!';
       open();
-      $scope.download = 'Opening...';
+
   },
   function(err) {
-      $scope.download = 'Download error! '+err;
+
   }
 );
 
@@ -34,8 +34,7 @@ cordova.plugins.fileOpener2.open(
          alert('Error status: ' + e.status + ' - Error message: ' + e.message);
         },
         success : function () {
-
-  $scope.download = 'File opened successfully';                
+               
         }
     }
 );
